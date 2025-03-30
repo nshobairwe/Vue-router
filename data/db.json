@@ -1,0 +1,12 @@
+{
+    "jobs": [
+        {"title": " witnes designer", "id": 1, "details": "lorem"},
+        {"title": " witnes web dev", "id": 2, "details": "lorem"},
+        {"title": " witnes mobile dev", "id": 3, "details": "lorem"}
+    ],
+    "blogs": [
+        {"title": "blog 1", "id": 1, "content": "lorem"},
+        {"title": "blog 2", "id": 2, "content": "lorem"},
+        {"title": "blog 3", "id": 3, "content": "lorem"}
+    ]
+}

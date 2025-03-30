@@ -15,9 +15,9 @@ export default {
     data() {
         return {
             jobs: [
-                {title: 'designer', id: 1, details: 'lorem'},
-                {title: 'web dev', id: 2, details: 'lorem'},
-                {title: 'mobile dev', id: 3, details: 'lorem'},
+                {title: ' witnes designer', id: 1, details: 'lorem'},
+                {title: ' witnes web dev', id: 2, details: 'lorem'},
+                {title: ' witnes mobile dev', id: 3, details: 'lorem'},
             ]
         }
     }
