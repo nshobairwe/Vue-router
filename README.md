@@ -1,18 +1,18 @@
 # vue-router tutorial steps
 
-### 1. vue router setup project
+ 1. vue router setup project
 
-### 2. router links
+2. router links
 
-### 3. folder structure
+3. folder structure
 
-### 4. router parameter
+4. router parameter
 
-### 5. dynaminc links
+5. dynaminc links
 
-### 6. redirect & 404
+6. redirect & 404
 
-### 7. paragmatic navigation
+7. paragmatic navigation
 
 # JSON SERVER SETUP steps
 
