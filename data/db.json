@@ -1,12 +1,19 @@
 {
     "jobs": [
-        {"title": " witnes designer", "id": 1, "details": "lorem"},
-        {"title": " witnes web dev", "id": 2, "details": "lorem"},
-        {"title": " witnes mobile dev", "id": 3, "details": "lorem"}
-    ],
-    "blogs": [
-        {"title": "blog 1", "id": 1, "content": "lorem"},
-        {"title": "blog 2", "id": 2, "content": "lorem"},
-        {"title": "blog 3", "id": 3, "content": "lorem"}
+        {
+            "title": "UX/UI Designer",
+            "id": 1,
+            "details": "We are looking for a skilled UX/UI designer to create engaging user interfaces and seamless user experiences for our web and mobile applications. Experience with design tools like Sketch, Figma, and Adobe XD is required."
+        },
+        {
+            "title": "Frontend Web Developer",
+            "id": 2,
+            "details": "We are hiring a Frontend Web Developer to join our dynamic team. The ideal candidate should be proficient in HTML, CSS, JavaScript, and modern frameworks like Vue.js or React. Experience with responsive design and cross-browser compatibility is a plus."
+        },
+        {
+            "title": "Mobile App Developer",
+            "id": 3,
+            "details": "Join our team as a Mobile App Developer. We are looking for someone experienced in building iOS and Android apps using frameworks like React Native or Flutter. Strong knowledge of mobile app lifecycle, performance, and debugging is essential."
+        }
     ]
 }
