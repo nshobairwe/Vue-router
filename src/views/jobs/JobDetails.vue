@@ -18,7 +18,7 @@
       };
     },
     mounted() {
-      fetch('http://localhost:3000/jobs/' + this.id)
+      fetch('https://my-json-server.typicode.com/nshobairwe/Vue-router/jobs/' + this.id)
         .then((res) => res.json())
         .then(data => this.job = data)
         .catch(err => console.log(err.message));
