@@ -1,15 +1,15 @@
-# vue-router
+# vue-router tutorial steps
 
-## vue router setup project
+### 1. vue router setup project
 
-## router links
+### 2. router links
 
-## folder structure
+### 3. folder structure
 
-## router parameter
+### 4. router parameter
 
-## dynaminc links
+### 5. dynaminc links
 
-## redirect & 404
+### 6. redirect & 404
 
-## paragmatic navigation
+### 7. paragmatic navigation
