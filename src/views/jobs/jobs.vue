@@ -23,7 +23,7 @@ export default {
         }
     },
     mounted() {
-    fetch('https://my-json-server.typicode.com/nshobairwe/Vue-router/jobs/')
+    fetch('https://cors-anywhere.herokuapp.com/https://my-json-server.typicode.com/nshobairwe/Vue-router/jobs/')
     .then((res) =>res.json())
     .then(data => this.jobs = data)
     .catch(err => console.log(err.message))
