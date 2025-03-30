@@ -1,19 +1,15 @@
-# ninja-jobs
+# vue-router
 
-## Project setup
-```
-npm install
-```
+## vue router setup project
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## router links
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## folder structure
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## router parameter
+
+## dynaminc links
+
+## redirect & 404
+
+## paragmatic navigation
